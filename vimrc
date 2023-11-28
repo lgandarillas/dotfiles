@@ -13,3 +13,4 @@ set showmatch
 set hlsearch
 set laststatus=2
 set statusline+=\ %F\ %M\ %Y\ %R
+highlight EndOfBuffer ctermbg=NONE ctermfg=black guibg=NONE guifg=black
