@@ -1,7 +1,6 @@
 set rnu
 syntax on
 colorscheme desert
-set mouse=a
 set cursorline
 let g:user42 = 'lgandari'
 let g:mail42 = 'lgandari@student.42madrid.com'
