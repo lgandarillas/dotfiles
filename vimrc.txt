@@ -1,0 +1,24 @@
+" APPEARENCE
+set rnu
+syntax on
+colorscheme desert
+set cursorline
+set showmode
+set laststatus=2
+set statusline+=\ %F\ %M\ %Y\ %R
+
+" UTILS
+set mouse=a
+set smartindent
+set nowrap
+set tabstop=4
+
+" SEARCH
+set incsearch
+set ignorecase
+set showmatch
+
+" SETTIGS
+let g:user42 = 'lgandari'
+let g:mail42 = 'lgandari@student.42madrid.com'
+let g:auto_save = 1
