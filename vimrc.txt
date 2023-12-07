@@ -9,7 +9,7 @@ set statusline+=\ %F\ %M\ %Y\ %R
 
 " UTILS
 set mouse=a
-set smartindent
+set autoindent
 set nowrap
 set tabstop=4
 
