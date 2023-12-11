@@ -6,6 +6,7 @@ set cursorline
 set showmode
 set laststatus=2
 set statusline+=\ %F\ %M\ %Y\ %R
+highlight EndOfBuffer ctermbg=NONE ctermfg=black guibg=NONE guifg=black
 
 " UTILS
 set mouse=a
@@ -17,6 +18,8 @@ set tabstop=4
 set incsearch
 set ignorecase
 set showmatch
+set hlsearch
+
 
 " SETTIGS
 let g:user42 = 'lgandari'
