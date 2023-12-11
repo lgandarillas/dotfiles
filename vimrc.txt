@@ -1,3 +1,7 @@
+"""""""""""""""""""""""""""""""""""""
+"   @lgandari Vimrc Configuration
+"""""""""""""""""""""""""""""""""""""
+
 " APPEARENCE
 set rnu
 syntax on
@@ -13,6 +17,7 @@ set mouse=a
 set autoindent
 set nowrap
 set tabstop=4
+set clipboard=unnamed
 
 " SEARCH
 set incsearch
